@@ -39,4 +39,4 @@ The challenge consists of three deliverables (as described in module 8 challenge
   - movies_metadata.csv
   - ratings.csv 
 - Count of movies table in postgres shows 6051 for me (as shown in movies_query.png) instead of 6052 mentioned in the challenge, I was not able to investigate the difference of 1 record due to lack of time
-- Git pull overwrote all the work and I lost the code files.
+- Git pull overwrote all the work and I lost the code files. Ihad to restore the files and upload via github instead of git bash
